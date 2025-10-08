@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.681d678a.css",
+    "main.js": "/static/js/main.6451ea32.js",
+    "static/js/977.1913a4a6.chunk.js": "/static/js/977.1913a4a6.chunk.js",
+    "static/js/455.e97ac182.chunk.js": "/static/js/455.e97ac182.chunk.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/whitelogo.png": "/static/media/whitelogo.b72430ae51484c0d8dfd.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/Logo.jpeg": "/static/media/Logo.62e4aa1da497a7520369.jpeg",
+    "static/media/BG.png": "/static/media/BG.c2ca4c07c69359ccf574.png",
+    "static/media/digital stamp.png": "/static/media/digital stamp.297b80654825c609b059.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/index.html",
+    "main.681d678a.css.map": "/static/css/main.681d678a.css.map",
+    "main.6451ea32.js.map": "/static/js/main.6451ea32.js.map",
+    "977.1913a4a6.chunk.js.map": "/static/js/977.1913a4a6.chunk.js.map",
+    "455.e97ac182.chunk.js.map": "/static/js/455.e97ac182.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.681d678a.css",
+    "static/js/main.6451ea32.js"
+  ]
+}
